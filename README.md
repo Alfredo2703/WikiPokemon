@@ -1,0 +1,2 @@
+# WikiPokemon
+Pagina para fans
